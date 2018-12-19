@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MiccheckPlugin",
+    "version": "0.0.0",
+    "class": "MiccheckPlugin",
+    "requires": [
+      {
+        "@twilio/flex-ui": "^1.0.0"
+      }
+    ],
+    "src": "http://localhost:8080/plugin-miccheck.js"
+  }
+]
